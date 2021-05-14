@@ -16788,11 +16788,11 @@ a:focus {
   width: 100%;
   z-index: 15;
 }
-@media (min-width: 320px) and (max-width: 1199px) {
+/* @media (min-width: 320px) and (max-width: 1199px) {
   .books-gird ul li figure figcaption {
     display: none;
   }
-}
+} */
 .books-gird ul li figure figcaption p {
   color: #6b6b6b;
   margin-bottom: 5px;
@@ -16835,13 +16835,13 @@ a:focus {
   -ms-transform: scale(1.027);
   transform: scale(1.027);
 }
-.books-gird ul li:hover figcaption {
+/* .books-gird ul li:hover figcaption {
   -webkit-transform: scaleX(0);
   -moz-transform: scaleX(0);
   -o-transform: scaleX(0);
   -ms-transform: scaleX(0);
   transform: scaleX(0);
-}
+} */
 .books-gird ul li:hover .single-book-box,
 .books-gird ul li:hover .books-social-sharing,
 .books-gird ul li:hover .optional-links {
